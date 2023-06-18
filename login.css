@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;  
+    text-align: center; 
+    font-size: 30px;
+}
+.container{
+    display: grid;
+    margin: 40px;
+    background-color: whitesmoke;
+}
+body{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+}
